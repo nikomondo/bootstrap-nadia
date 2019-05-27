@@ -252,8 +252,8 @@ header .logo {
 header .logo img {
   /*margin-bottom: 5px;*/
   margin-top: 15px;
-  width: 50%;
-  height: auto;
+  /*width: 50%;
+  height: auto;*/
 }
 
 header .logo h1 {
